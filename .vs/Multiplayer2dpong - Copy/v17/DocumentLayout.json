@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|D:\\UnityProjects\\Multiplayer2dpong - Copy\\assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FF4CF0-C130-C80B-5054-0C7E699FA948}|PhotonUnityNetworking.Demos.csproj|d:\\unityprojects\\multiplayer2dpong - copy\\assets\\photon\\photonunitynetworking\\demos\\demoasteroids\\scripts\\lobby\\lobbymainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FF4CF0-C130-C80B-5054-0C7E699FA948}|PhotonUnityNetworking.Demos.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\demos\\demoasteroids\\scripts\\lobby\\lobbymainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|D:\\UnityProjects\\Multiplayer2dpong - Copy\\assets\\scripts\\playerproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|D:\\UnityProjects\\Multiplayer2dpong - Copy\\assets\\scripts\\ballmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|D:\\UnityProjects\\Multiplayer2dpong - Copy\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|D:\\UnityProjects\\Multiplayer2dpong - Copy\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|D:\\UnityProjects\\Multiplayer2dpong - Copy\\assets\\scripts\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CD0CC0-69B9-3FDB-4F83-33C7C27B7B6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LobbyMainPanel.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\Lobby\\LobbyMainPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\Lobby\\LobbyMainPanel.cs",
+              "ToolTip": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\Lobby\\LobbyMainPanel.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\Lobby\\LobbyMainPanel.cs",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAiwIIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:42:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:47:10.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BallMovement.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\BallMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallMovement.cs",
+              "ToolTip": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\BallMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallMovement.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:40:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerSetUp.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\PlayerSetUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSetUp.cs",
+              "ToolTip": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\PlayerSetUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSetUp.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:32:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player1.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\Player1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player1.cs",
+              "ToolTip": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\Player1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:30:36.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerProperties.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\PlayerProperties.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerProperties.cs",
+              "ToolTip": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\PlayerProperties.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerProperties.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIBJwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:24:51.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\UnityProjects\\Multiplayer2dpong - Copy\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:19:06.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
